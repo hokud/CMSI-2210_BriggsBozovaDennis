@@ -1,1 +1,70 @@
+What is a computer system?
+A computer system is the combination of the hardware, software, and the user coming together to create a computer set up. 
+
+What are some of the parts of a computer system?
+CPU, input and output hardware, network card or device, and ports
+
+What is the difference between a compiled language and an interpreted language?
+Compiled languages are translated ahead of time into machine code by a compiler and then run directly by the hardware (fast execution). Interpreted languages are processed at runtime by an interpreter that reads and executes statements on the fly (more flexible, usually slower).
+
+Is C a compiled language?
+Yes. C code is compiled into native machine code and linked with libraries so it can execute directly on the computer—there’s no virtual machine layer.
+
+
+Who invented the C language?
+Dennis Ritchie created C in the early 1970s at Bell Labs.
+
+How long has C been in use?
+C was developed in the early 1970s at Bell Labs, so it has been in use for more than 50 years. Despite its age, it is still widely used today in operating systems, embedded systems, and performance-critical software.
+
+Is a compiler a translator?
+Yes. A compiler is a kind of translator that takes source code written in a high-level language and translates it into a lower-level form (usually machine code or assembly) that the computer can actually run.
+
+Is an assembler a translator?
+Yes, it converts assembly language into machine language that the CPU can execute.
+
+What is the command to list out the contents of a directory on a mac terminal window?
+ls
+
+What does the C function atof() do?
+Converts a string of a number into a float
+
+What are the bottom two layers of a computer system? Give a brief description of each.
+Digital Logic Layer: the actual hardware made of gates, circuits, and chips. It handles the most basic binary operations.
+Control Layer: built on top of the hardware, this layer uses microcode or firmware to manage how the hardware executes instructions.
+
+
+What are the three steps of the Von Neumann Architecture?
+Fetch — the control unit gets the next instruction from memory (using the program counter).
+Decode — the instruction is decoded into signals the processor can understand.
+Execute — the ALU carries out the operation, storing the result in a register or memory.
+
+
+What is the purpose of an ALU?
+A part of the CPU that performs operations done on integers, such as arithmetic and bit-wise operations.
+
+What is a register?
+A register is a very small, very fast storage location inside the CPU that holds data or addresses temporarily while instructions are being executed.
+
+What is one difference between Application software and System software?
+Application software is written for people, and system software is written for computers.
+
+Is the phrase cmp rdi, rsi machine language?
+No, cmp rdi, rsi is assembly language not raw machine language
+
+
+How many buses are included in the system bus?
+Three - the address bus, the data bus, and the control bus
+
+What is the decimal value of 10010111(2)?
+128 + 16 + 4 + 2 + 1 = 151
+
+
+What is the decimal value of 11111111(2)?
+128 + 64 + 32 + 16 + 8 + 4 + 2 + 1 = 255
+
+
+What is the largest unsigned integer value that will fit into 16 bits?
+2^16 − 1 = 65,535
+
 
