@@ -1,0 +1,59 @@
+
+
+Evaluation Criteria ~ homework05
+CMSI 2210 Section 02 Fall 2025
+=================================
+
+dec2bin
+   compiles       [ 5 pts.]      5 points earned
+   error checks   [ 5 pts.]      5 points earned
+   runs  tests    [10 pts.]      9 points earned
+dec2hex
+   compiles       [ 5 pts.]      5 points earned
+   error checks   [ 5 pts.]      5 points earned
+   32-bit tests   [ 5 pts.]      4 points earned
+   64-bit tests   [ 5 pts.]      5 points earned
+timesTables
+   compiles       [ 5 pts.]      5 points earned
+   error checks   [ 5 pts.]      5 points earned
+   runs  tests    [10 pts.]      9 points earned
+holdit
+   compiles       [ 5 pts.]      5 points earned
+   runs tests     [15 pts.]     15 points earned
+wordcount
+   compiles       [ 5 pts.]      5 points earned
+   error checks   [ 5 pts.]      5 points earned
+   runs tests     [10 pts.]     10 points earned
+
+ Total possible ~ 100 points
+
+========================================================
+
+TOTAL EARNED POINTS:
+   you earned 97/100 which is 97.00% which is an A-plus
+
+========================================================
+SPECIFIC COMMENTS/FEEDBACK:
+
+your dec2bin and dec2hex programs don't check to see if the entry is valid.
+   when I enter "asdf" for the number, it converts that to zeros which isn't
+   correct.
+
+your timesTable program doesn't fill in extra space for cell values that are
+   as large or larger than 4 digits.  This was described as a key part of the
+   program.
+
+Otherwise, good job!
+
+========================================================
+SEMESTER SCORE SO FAR:
+
+   Homework01  100.00% of  5 points =  5.00 points
+   Homework02  100.00% of  5 points =  5.00 points
+   Homework03   94.44% of  5 points =  4.72 points
+   Homework04  100.00% of  5 points =  5.00 points
+   Homework05   97.00% of 10 points =  9.70 points
+                               total: 29.42 out of 30.00 = 98.07%
+                                which is an A-plus
+
+Great work on this assignment!  ONly one more, so keep it up...
